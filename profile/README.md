@@ -1,4 +1,5 @@
 # 🚀 LexFi: Revolutionizing Financial Intelligence 💡
+
 ## 👋 Welcome to LexFi!
 We are a forward-thinking startup on a mission to create cutting-edge AI models that are revolutionizing the world of financial analysis. At LexFi, we believe in the power of data to unlock actionable insights for financial professionals, institutions, and beyond! 🌍💼
 
